@@ -1,0 +1,87 @@
+.fundo_logo{
+ background: #4A4C4F
+}
+.bg_header{
+    background: #828282
+}
+.titulo{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    color: #828282
+}
+.menu_lateral{
+    height: 964px;
+    top: 55px
+}
+.titulo-header{
+    font-size: 100%;
+    line-height: 21px;
+    font-family: 'Roboto', sans-serif;
+}
+.subtitulo{
+    font-family: 'Raleway', sans-serif;
+    font-size: 80%;
+    line-height: 18px
+}
+.conteine-titulo{
+    position: relative;
+    top:5px
+}
+ .retangle{
+     background: #2184B9;
+     height: 80px;
+     position: fixed;
+        width: 1173px;
+        height: 80px;
+        left: 25%;
+        top: 55px;
+        z-index: 1000;
+ }
+ .retangle_header{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: #fff
+ }
+ 
+ .retangle_conteudo{
+     position: relative;
+     left: 25%;
+     top:135px;
+ }
+ .busca_cliente,#formGroupExampleInput{
+     background: #C9C8C8
+ }
+ .titulo_tabela{
+    height: 40px;
+   
+    
+    background: #F5F5F5;
+    border: 1px solid #C9C8C8;
+    box-sizing: border-box;
+ }
+ .titulo_fisica_juridica{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #5C5C5C;
+    
+ }
+ #formGroupExampleInput{
+     background: #fff
+ }
+ .submit{
+     background: #316596;
+     color: #fff;
+    
+     
+
+ }
+ .submit button[name='cancela']{
+    margin-left: 2.5em
+ }
